@@ -45,4 +45,9 @@ Swagger en http://localhost:8000/docs.
 
 ## Contexto
 
-El plan de estudio y el contexto de la oferta están en mi bóveda de Obsidian (Alexandria Project), en `PARA/1 - PROJECTS/Study/Prosperas - Wallet API/`.
+El plan de estudio y el contexto de la oferta están en mi bóveda de Obsidian (Alexandria Project). En mi equipo, `plan/` es un enlace local a esa carpeta (no se sube a Git):
+
+- `plan/Semana 1 - Wallet API.md`: qué toca cada día, con checklist y autoevaluación.
+- `plan/Prosperas - Contexto de la oferta.md`: la oferta, mi perfil y el plan de 3 semanas.
+
+Cuando te pregunte qué toca hoy, lee la semana actual y busca la primera tarea sin marcar. Puedes marcar en la nota las tareas que terminemos (`- [x] ... ✅ AAAA-MM-DD`), pero no cambies el resto del contenido.
