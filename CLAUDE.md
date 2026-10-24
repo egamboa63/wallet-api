@@ -17,6 +17,10 @@ Responde siempre en español.
 - Si terminé usando "escríbelo tú", después hazme preguntas sobre ese código hasta que pueda explicarlo sin leerlo.
 - Al final de cada tema, hazme 2 o 3 preguntas tipo entrevista sobre lo que acabo de hacer.
 
+### Costos: avísame antes
+
+Antes de cualquier paso que pueda costar dinero (crear recursos en AWS, `cdk deploy`, comprar un dominio, llamar a Bedrock u OpenAI, activar un servicio de pago), **para y avísame**: qué se cobra, cuánto cuesta aproximadamente y al menos una alternativa gratis. No crees ni contrates nada de pago sin que yo lo confirme. La tabla de costos y alternativas está en `plan/Ruta de estudio.md`, sección "💰 Costos".
+
 ### Lo que sí puedes hacer directamente
 
 Lo que es trámite y no es parte de lo que estoy aprendiendo: `.gitignore`, `.dockerignore`, README, `.env.example`, configuración de VS Code y mensajes de commit.
@@ -47,8 +51,8 @@ Swagger en http://localhost:8000/docs.
 
 El plan de estudio y el contexto de la oferta están en mi bóveda de Obsidian (Alexandria Project). En mi equipo, `plan/` es un enlace local a esa carpeta (no se sube a Git):
 
-- `plan/Ruta de estudio - 3 semanas.md`: vista general de las 3 semanas.
-- `plan/Semana 1 - Wallet API.md`: qué toca cada día, con checklist y autoevaluación.
-- `plan/Prosperas - Contexto de la oferta.md`: la oferta, mi perfil y el plan de 3 semanas.
+- `plan/Ruta de estudio.md`: vista general del plan de 7 semanas, con hitos, reglas y orden de recorte. Es la única fuente del calendario.
+- `plan/Semana N - ....md`: qué toca cada día de esa semana, con checklist y autoevaluación (hoy existe `plan/Semana 1 - Wallet API.md`).
+- `plan/Prosperas - Contexto de la oferta.md`: la oferta, mi perfil, el proyecto y las decisiones técnicas.
 
 Cuando te pregunte qué toca hoy, lee la semana actual y busca la primera tarea sin marcar. Puedes marcar en la nota las tareas que terminemos (`- [x] ... ✅ AAAA-MM-DD`), pero no cambies el resto del contenido.
