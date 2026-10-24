@@ -47,6 +47,7 @@ Swagger en http://localhost:8000/docs.
 
 El plan de estudio y el contexto de la oferta están en mi bóveda de Obsidian (Alexandria Project). En mi equipo, `plan/` es un enlace local a esa carpeta (no se sube a Git):
 
+- `plan/Ruta de estudio - 3 semanas.md`: vista general de las 3 semanas.
 - `plan/Semana 1 - Wallet API.md`: qué toca cada día, con checklist y autoevaluación.
 - `plan/Prosperas - Contexto de la oferta.md`: la oferta, mi perfil y el plan de 3 semanas.
 
